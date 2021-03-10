@@ -45,7 +45,7 @@ system setting consentfriend.js_url to
 
 ## How can I redisplay the consent management window on a page?
 
-If you want to allow the user to change his consent settingsm, you can add a
+If you want to allow the user to change his consent settings, you can add a
 link to the consent management window using the following code:
 
 ```
